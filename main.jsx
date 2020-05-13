@@ -1,5 +1,6 @@
 import { h, render } from 'preact'
 import Counter from "./components/counter";
+import Form from "./components/Form";
 
 render((
     <div id="foo">
